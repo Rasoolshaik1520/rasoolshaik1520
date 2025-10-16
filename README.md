@@ -4,7 +4,8 @@
   </a>
   <h1 style="color: #00AEEF; font-size: 2.5em; margin-bottom: 0;">Hello! I'm Rasool✌️</h1>
   
-  <img src="https://media.giphy.com/media/Qv0o15zBw8J17mK037/giphy.gif" alt="Typing/Coding GIF" width="350" style="margin-top: 15px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
+  <img src="![17606491696615642044961714028375](https://github.com/user-attachments/assets/b23e9844-d90f-4075-a550-1d69dbc56b8d)
+" alt="Typing/Coding GIF" width="350" style="margin-top: 15px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
   
   <p style="font-size: 1.3em; color: #B3B3B3; margin-top: 15px;">
     🚀 Full Stack Developer | 🧠 AI/ML Explorer | Architecting digital solutions.
