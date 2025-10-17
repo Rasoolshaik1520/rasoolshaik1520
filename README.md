@@ -1,12 +1,36 @@
 <div align="center">
+  <!--
   <a href="https://github.com/Rasoolshaik1520" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" height="150" alt="Profile Picture" style="border-radius: 50%; border: 4px solid #00AEEF; box-shadow: 0 0 25px #00AEEF; transform: rotate(5deg);">
+  -->
+  <!--
+  <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/220498885?v=4" alt="Rasool Profile" width="120" style="border-radius:50%">
+    -->
+  <!--
+  <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/220498885?v=4" 
+       alt="Rasool Profile Picture" 
+       width="180" 
+       style="border-radius: 50%;">
+    -->
+  <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/220498885?v=4&s=200" 
+       alt="Rasool Profile Picture" 
+       width="130" 
+       height="130" 
+       style="border-radius:50%;">
+</p>
+
+</p>
+
   </a>
   <h1 style="color: #00AEEF; font-size: 2.5em; margin-bottom: 0;">Hello! I'm Rasool✌️</h1>
-  
+  <!--
   <img src="![17606491696615642044961714028375](https://github.com/user-attachments/assets/b23e9844-d90f-4075-a550-1d69dbc56b8d)
 " alt="Typing/Coding GIF" width="350" style="margin-top: 15px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);">
-  
+  -->
+    <img src="https://www.bing.com/th/id/OGC.28020003d4a493c78d8202ba6c35f179?o=7&cb=12&pid=1.7&rm=3&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f511295%2fscreenshots%2f2629099%2foctocat-wave-dribbble.gif&ehk=dbLB86buaNF7giR%2f46VMHMzfjmHn0WJkwLdKkwWSaWs%3d" alt="Octocat Wave GIF" width="150">
   <p style="font-size: 1.3em; color: #B3B3B3; margin-top: 15px;">
     🚀 Full Stack Developer | 🧠 AI/ML Explorer | Architecting digital solutions.
   </p>
@@ -88,12 +112,21 @@ A snapshot of my recent activity and language proficiency. **(All use your usern
   </a>
   
   <br/>
-  
+  <!--
   <a href="https://github.com/Rasoolshaik1520">
     <img src="https://github-readme-streak-stats.vercel.app/?user=Rasoolshaik1520&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=D85627&ring=00AEEF&side_main=00AEEF&side_sec=B3B3B3&stroke=00AEEF&currStreakLabel=00AEEF&title_color=00AEEF&icon_color=00AEEF&text_color=B3B3B3&bg_color=1F222E" 
          alt="GitHub Streak" width="100%">
   </a>
-  
+  -->
+
+<p align="center">
+  <a href="https://github.com/Rasoolshaik1520">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasoolshaik1520&theme=dark" 
+         alt="GitHub Streak" 
+         width="400">
+  </a>
+</p>
+
   <br/>
   
   <a href="https://github.com/Rasoolshaik1520">
