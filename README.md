@@ -14,6 +14,7 @@
        width="180" 
        style="border-radius: 50%;">
     -->
+  <!--
   <p align="center">
   <img src="https://avatars.githubusercontent.com/u/220498885?v=4&s=200" 
        alt="Rasool Profile Picture" 
@@ -21,8 +22,17 @@
        height="130" 
        style="border-radius:50%;">
 </p>
-
+-->
+ <!-- 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/220498885?v=4" 
+       alt="Rasool Profile Picture" 
+       width="130" 
+       height="130"
+       style="border-radius: 50%;">
+  -->
 </p>
+
 
   </a>
   <h1 style="color: #00AEEF; font-size: 2.5em; margin-bottom: 0;">Hello! I'm Rasool✌️</h1>
